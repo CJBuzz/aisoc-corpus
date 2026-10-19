@@ -3,7 +3,7 @@ title: Bayesian View on Regularization
 description: Understanding ridge and lasso regularization through Bayesian priors and maximum a posteriori estimation.
 authors: ["CJBuzz"]
 updatedDate: "2026-10-19"
-difficulty: intermediate
+difficulty: beginner
 category: classical-ml
 domains: ["supervised-learning", "regression", "statistics"]
 tags: ["regularization", "bayesian-inference", "ridge", "lasso", "map-estimation"]
